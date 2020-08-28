@@ -1,0 +1,20 @@
+{
+  "name": "remin_chan",
+  "version": "1.0.0",
+  "description": "app reminder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "khanh585",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.15.1",
+    "morgan": "^1.7.0",
+    "request": "^2.72.0"
+  },
+  "engines": {
+    "node": "14.4.0"
+  }
+}
